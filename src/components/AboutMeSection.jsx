@@ -56,21 +56,27 @@ function AboutMeSection() {
   const timeline = [
     {
       date: "2022",
-      title: "Engineering Initiation",
-      description:
-        "Commenced Bachelor's in Electronics and Information Engineering in IOE",
-    },
-    {
-      date: "2023",
       title: "Web Development Mastery Frontend",
       description:
         "Advanced React skills, building complex web applications particullary Frontend",
     },
     {
-      date: "2024",
-      title: "Full Stack Web Development Cloud & DevOps Focus along",
+      date: "2023",
+      title: "Engineering Initiation",
       description:
-        "Deep dive into MERN stack along with cloud technologies and DevOps practices",
+        "Commenced Bachelor's in Electronics and Information Engineering in IOE,TU",
+    },
+
+    {
+      date: "2024",
+      title: "Full Stack Web Development",
+      description: "Deep dive into MERN stack",
+    },
+    {
+      date: "2025",
+      title: "Advanced Web Technologies & Specialization",
+      description:
+        "Mastering Next.js, GraphQL, and WebAssembly with focus on [AI integration/Web3/Cloud Native/Performance Optimization]",
     },
   ];
 
